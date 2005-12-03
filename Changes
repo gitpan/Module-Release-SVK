@@ -1,0 +1,19 @@
+2005-12-02  John Peacock <jpeacock@cpan.org>
+
+	Update README and Build.PL; ready for release
+
+2005-12-02  John Peacock <jpeacock@cpan.org>
+
+	Replace with Module::Starter::PBP version
+
+2005-12-02  John Peacock <jpeacock@cpan.org>
+
+	Initial import.
+
+2005-12-02  John Peacock <jpeacock@cpan.org>
+
+	Directory for svk import.
+
+;; Local Variables:
+;; coding: utf-8
+;; End:

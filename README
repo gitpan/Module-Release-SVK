@@ -1,0 +1,29 @@
+Module-Release-SVK version 0.0.1
+
+Module::Release::SVK subclasses Module::Release, and provides its own
+implementations of the "check_cvs()" and "cvs_tag()" methods that are
+suitable for use with an SVK repository rather than a CVS repository.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Build.PL
+    ./Build
+    ./Build test
+    ./Build install
+
+
+DEPENDENCIES
+
+Module::Build
+version
+Test::More
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2005, John Peacock
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.

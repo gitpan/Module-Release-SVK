@@ -1,0 +1,15 @@
+---
+name: Module-Release-SVK
+version: v0.0.1
+author:
+  - John Peacock <jpeacock@cpan.org>
+abstract: Use SVK instead of CVS with Module::Release
+license: perl
+requires:
+  Test::More: 0.54
+  version: 0.5
+provides:
+  Module::Release::SVK:
+    file: lib/Module/Release/SVK.pm
+    version: v0.0.1
+generated_by: Module::Build version 0.2611
